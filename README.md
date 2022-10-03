@@ -25,8 +25,9 @@ Also I've added a Makefile into each chapter.
   $ make p8_01 p8_04 // builds file(s) individually
   $ make clean       // cleans all executables
   
-  Default build is release (with DNDEBUG flag). Debug mode can be activated by either modifying the Makefile or
-  calling the make with the mode option;
+  Default build is release (with DNDEBUG flag). Debug mode can be activated by either 
+  modifying the Makefile or calling the make with the mode option;
+  
   $ make mode=debug            // builds all files with -g flag
   $ make mode=debug ex5_05     // builds file(s) individually
 ```
