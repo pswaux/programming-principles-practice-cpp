@@ -5,7 +5,7 @@
 </p>
 
 This repository contains my own solutions to programming exercises (not try this and drills).\
-I created this repository for self-study and fun. I didn't graduate from any computer or related fields.\
+I created this repository just for self-study and fun. I didn't graduate from any computer or related fields.\
 I'm not even a professional programmer.
 
 My system is 64-bit Fedora-35 running GCC 11.3.1. I used Vim as an editor and CLI to compile programs.
@@ -25,7 +25,7 @@ Also I've added a Makefile into each chapter.
   $ make p8_01 p8_04 // builds file(s) individually
   $ make clean       // cleans all executables
   
-  Default build is release (with DNDEBUG flag). Debug mode can be activated by either 
+  Default build mode is release (with DNDEBUG flag). Debug mode can be activated by either 
   modifying the Makefile or calling the make with the mode option;
   
   $ make mode=debug            // builds all files with -g flag
