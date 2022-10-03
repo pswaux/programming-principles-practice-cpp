@@ -18,7 +18,7 @@ My system is 64-bit Fedora-35 running GCC 11.3.1. I used Vim as an editor and CL
   $ g++ src/foo.c -o bin/foo     // separate source codes and binaries
 ```
 
-Also I've added a Makefile into each chapter.
+Also I've added a Makefile, that is slightly modified version of Stroustrup's, into each chapter.
 ## Usage
 ```bash
   $ make             // builds all files
