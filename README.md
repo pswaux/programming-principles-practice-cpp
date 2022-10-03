@@ -35,10 +35,10 @@ Also I've added a Makefile, that is slightly modified version of Stroustrup's, i
 ## Table of Contents
 * Chapter 0 - Notes to the Reader
 * Chapter 1 - Computers, People, and Programming
-* Chapter 2 - Hello, World!
-* Chapter 3 - Objects, Types, and Values
-* Chapter 4 - Computation
-* Chapter 5 - Errors
+* [Chapter 2 - Hello, World!](https://github.com/pswaux/programming-principles-practice-cpp/tree/main/02)
+* [Chapter 3 - Objects, Types, and Values](https://github.com/pswaux/programming-principles-practice-cpp/tree/main/03)
+* [Chapter 4 - Computation](https://github.com/pswaux/programming-principles-practice-cpp/tree/main/04)
+* [Chapter 5 - Errors](https://github.com/pswaux/programming-principles-practice-cpp/tree/main/05)
 * Chapter 6 - Writing a Program
 * Chapter 7 - Completing a Program
 * Chapter 8 - Technicalities: Functions, etc.
