@@ -1,5 +1,5 @@
 /**
- * Exercise 4_5
+ * Exercise 6_5
  *
  * Add the article the to the “English” grammar in §6.4.1, so that it can
  * describe sentences such as “The birds fly but the fish swim.”
