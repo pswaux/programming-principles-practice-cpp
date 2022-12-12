@@ -39,7 +39,7 @@ Also I've added a Makefile, that is slightly modified version of Stroustrup's, i
 * [Chapter 3 - Objects, Types, and Values](https://github.com/pswaux/programming-principles-practice-cpp/tree/main/03)
 * [Chapter 4 - Computation](https://github.com/pswaux/programming-principles-practice-cpp/tree/main/04)
 * [Chapter 5 - Errors](https://github.com/pswaux/programming-principles-practice-cpp/tree/main/05)
-* Chapter 6 - Writing a Program
+* [Chapter 6 - Writing a Program](https://github.com/pswaux/programming-principles-practice-cpp/tree/main/06)
 * Chapter 7 - Completing a Program
 * Chapter 8 - Technicalities: Functions, etc.
 * Chapter 9 - Technicalities: Classes, etc.
